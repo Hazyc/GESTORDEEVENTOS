@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Gestor de Eventos</string>
+
+    <string name="button_add">Adicionar Evento</string>
+
+    <string name="button_delete">Eliminar Evento</string>
+
+
+</resources>
